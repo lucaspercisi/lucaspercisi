@@ -13,6 +13,6 @@ Here's a bit about me:
 - 🤔 I’m focusing on software architecture and technologies to ensure robustness and quality, tailored to the solution's demand.
 - 💬 Ask me about enterprise software development and scientific research in computer science.
 - 📫 How to reach me: lucas_percisi@hotmail.com
-- ⚡ Fun fact: I've programmed in Assembly for 8-bit RISC.
+- ⚡ Fun fact: I programmed professionally in Assembly for 8-bit RISC.
 - 🌐 Website: [Coming Soon]
 
